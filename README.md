@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello, I'm Arnoldas @ [SMXaS]🙋‍♂️
 
-<!--
-**SMXaS/SMXaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a AI and Robotics Developer and I'm passionate about Future World!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔨 I’m Currently Working on University Assignments
+- 📗 I'm At The Momemnt Learning Python 🐍
+- 👨‍🎓 I’m Looking For Python Job/Internship
+- ⏳ 2021 Goals: Learn Python & Build More Projects
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+---
+
+[instagram]: https://instagram.com/smxas
+[linkedin]: https://www.linkedin.com/in/arnoldas-jurkus-43155a197/
