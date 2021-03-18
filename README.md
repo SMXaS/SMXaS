@@ -2,10 +2,10 @@
 
 ### I'm a AI and Robotics  3rd Year Student and I'm passionate about Future World!
 
-                           - 🔨 I’m Currently Working on University Assignments
-                           - 📗 I'm At The Moment Learning Python 🐍
-                           - 👨‍🎓 I’m Looking For Python Job/Internship
-                           - ⏳ 2021 Goals: Learn Python & Build More Projects
+- 🔨Currently Working on University Assignments
+- 📗At The Moment Learning Python 🐍
+- 👨‍🎓Searching For Python Job/Internship
+- ⏳2021 Goals: Learn Python & Build More Projects
 
 <p align="center">
 Lets connect ⬇️
