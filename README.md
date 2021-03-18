@@ -1,7 +1,7 @@
-### Hello, I'm Arnoldas @ [SMXaS]🙋‍♂️
+## Hello, I'm Arnoldas @ [SMXaS]👨‍💻
 
 
-## I'm a AI and Robotics Developer and I'm passionate about Future World!
+### I'm a AI and Robotics Developer and I'm passionate about Future World!
 
 - 🔨 I’m Currently Working on University Assignments
 - 📗 I'm At The Momemnt Learning Python 🐍
