@@ -1,6 +1,6 @@
 ## Hello, I'm Arnoldas @ [SMXaS]👨‍💻
 
-### I'm a AI and Robotics  3rd Year Student and I'm passionate about Future World!
+### I'm a AI and Robotics 3rd Year Student and I'm Passionate About Future World!
 
 - 🔨Currently Working on University Assignments
 - 📗At The Moment Learning Python 🐍
