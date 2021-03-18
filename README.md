@@ -8,5 +8,5 @@
                            - ⏳ 2021 Goals: Learn Python & Build More Projects
 
 <p align="center">
-Lets connect
+Lets connect ⬇️
 </p>
