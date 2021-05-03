@@ -2,7 +2,7 @@
 
 ### I'm a AI and Robotics Last Year Student and I'm Passionate About Future World!
 
-- 🔨Currently Learning WEB Introduction
+- 🔨Currently Learning Javascript
 - 📗At The Moment Mastering Python & Machine Learning Techniques 🐍
 - ⏳2021 Goals: Build many projects!
 
