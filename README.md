@@ -1,6 +1,6 @@
 ## Hello, I'm Arnoldas @ [SMXaS]👨‍💻
 
-### I'm a AI and Robotics Last Year Student and I'm Passionate About Future World!
+### Artificial Intelligence and Robotics Graduate!
 
 - 🔨Currently Learning To Apply Machine Learning Models With API And Front View
 - 📗Constantly Focusing At Python & Machine Learning Techniques 🐍
