@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Arnoldas @ [SMXaS]👨‍💻</h1>
-<h3 align="center">Data and AI guy. Based in Lithunia</h3>
+<h3 align="center">Data and AI guy. Based in Lithuania</h3>
 <h4 align="center">AI and Robotics Graduate</h4>
 <h4 align="center">⏳Passion to Connect AI with Medicine</h4>
 
